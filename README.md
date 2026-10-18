@@ -11,3 +11,11 @@
 
 ### 二、遊戲操作
 點擊滑鼠左鍵後，輪盤開始隨機旋轉並播放音效。旋轉期間無法重複點擊，輪盤會逐漸減速，完全停止後播放「叮」的提示音，並可再次點擊進行下一輪占卜。
+
+### **三、連結**
+https://youtube.com/shorts/LvmXavKg9TY?feature=share
+https://github.com/bryan154/1151VR-HW3-414262349-Chen-Chia-En
+
+### **四、圖片**
+<img width="865" height="441" alt="image" src="https://github.com/user-attachments/assets/554a4736-242f-4e88-b283-c9cc9d6e2078" />
+
